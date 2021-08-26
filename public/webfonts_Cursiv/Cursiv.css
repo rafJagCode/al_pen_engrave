@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Cursiv';
+    src:url('Cursiv.ttf.woff') format('woff'),
+        url('Cursiv.ttf.svg#Cursiv') format('svg'),
+        url('Cursiv.ttf.eot'),
+        url('Cursiv.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}

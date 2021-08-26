@@ -1,0 +1,59 @@
+#grawer_fontlist {
+ text-align: center;
+ margin-top: 20px;
+}
+#grawer_fontlist label {
+ padding: 2px 15px;
+ font-size: 16px;
+}
+#grawer_fontlist label > * {
+ vertical-align: middle;
+}
+
+#grawer_wersja,
+#grawer_miejsce,
+#grawer_pozycja,
+#grawer_wielkosc,
+#grawer_text,
+#grawer_iconsize {
+ border-color: #cda85c;
+}
+#grawer_preview_image {
+ margin: 0 auto;
+ background-repeat: no-repeat;
+ height: 75px;
+ width: 525px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background-size: 525px;
+ background-position: center;
+}
+#grawer_preview_text {
+ padding: 16px 60px;
+ line-height: 1.1;
+ overflow: hidden;
+ margin-bottom: 0px;
+ margin-left: 0px;
+ text-shadow: 1px 1px 5px white;
+ position: absolute;
+}
+.icon-list-height-10 img {
+ height: 10px;
+}
+.icon-list-height-15 img {
+ height: 15px;
+}
+.icon-list-height-20 img {
+ height: 20px;
+}
+#icon-list-element span {
+ line-height: 32px;
+ margin-left: 5px;
+}
+#icon-list-element span img {
+ cursor: pointer;
+}
+#grawer_form select {
+ height: 42px;
+}

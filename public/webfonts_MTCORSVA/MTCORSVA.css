@@ -1,0 +1,5 @@
+@font-face {
+	font-family: 'MTCORSVA';
+	src: url('./MTCORSVA.eot');
+	src: local('MTCORSVA'), url('./MTCORSVA.woff') format('woff'), url('./MTCORSVA.ttf') format('truetype');
+}
